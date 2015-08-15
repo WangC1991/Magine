@@ -463,6 +463,6 @@ typedef VectorT<4,float>          Vector4f;
 typedef VectorT<4,double>	      Vector4d;
 
 
-}//end of namespace Magine
+}//end of namespace Magine//
 
 #endif
